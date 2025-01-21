@@ -1,4 +1,4 @@
-**README for Revenue and Demand Optimization Project**
+**Revenue and Demand Optimization Project**
 
 **Overview**
 
@@ -6,32 +6,32 @@ This project focuses on optimizing revenue and demand in a supply chain scenario
 
 **Key Components**
 
-Data Analysis
+**Data Analysis**
 
-Preprocessing raw data to ensure quality and consistency.
+- Preprocessing raw data to ensure quality and consistency.
 
-Identifying key metrics and trends for revenue and demand.
+- Identifying key metrics and trends for revenue and demand.
 
-Statistical Testing
+**Statistical Testing**
 
-Conducting hypothesis tests to validate assumptions.
+- Conducting hypothesis tests to validate assumptions.
 
-Using statistical models to uncover patterns in demand.
+- Using statistical models to uncover patterns in demand.
 
-Machine Learning
+**Machine Learning**
 
-Applying predictive models to forecast demand.
+- Applying predictive models to forecast demand.
 
-Exploring revenue optimization strategies using advanced algorithms.
+- Exploring revenue optimization strategies using advanced algorithms.
 
-Visualization
+**Visualization**
 
-Creating interactive dashboards using Tableau.
+- Creating interactive dashboards using Tableau.
 
-Highlighting key insights and KPIs for decision-making.
+- Highlighting key insights and KPIs for decision-making.
 
-Automation
+**Automation**
 
-Leveraging tools like KNIME to automate workflows.
+- Leveraging tools like KNIME to automate workflows.
 
-Reducing manual effort and increasing efficiency in data processing.
+- Reducing manual effort and increasing efficiency in data processing.
