@@ -32,6 +32,6 @@ This project focuses on optimizing revenue and demand in a supply chain scenario
 
 **Automation**
 
-- Leveraging tools like KNIME to automate workflows.
+- Leveraging tools like pandas and numpy for data automation and feature engineering.
 
 - Reducing manual effort and increasing efficiency in data processing.
